@@ -15,3 +15,8 @@ e) Optimal monetary policy (discretion vs. committment) in NK models;
 f) Topics in Bayesian estimation.
 
 All the models are firstly introduced in their theoretical framework, to then learn how to simulate them in dynare.
+
+# Material
+
+The slides are all clustered in a unique PDF named "Teaching_Perturbation_Methods". Codes to each topic will be provided during lectures and indicated in the slides. you can access to the .mod files for dynare in the branch called "codes". If you are interested in a .mod file not published in such branch but that appears in the slides, drop me an email: v.dionisi@campus.unimib.it
+
